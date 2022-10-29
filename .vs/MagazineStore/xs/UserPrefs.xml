@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{80842CF4-AC1B-4E29-A40B-8CB9920DD40E}|Default">
+  <Debugger.DebugSourceFolders />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Program.cs" Line="16" Column="13" />
+      <File FileName="ApiHelper.cs" Line="17" Column="2" />
+      <File FileName="Models.cs" Line="7" Column="38" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MagazineStore" expanded="True" selected="True">
+            <Node name="MagazineStore" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.MagazineStore PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
